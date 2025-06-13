@@ -1,5 +1,29 @@
 # Changelog
 
+## v0.31.0 - 2025-01-15
+
+Bump to Firefox 134
+Migrate from mamba back to conda now that mamba has merged into conda
+
+## v0.30.0 - 2024-09-30
+
+Bump to Firefox 130
+
+## v0.29.0 - 2024-07-12
+
+Bump to Firefox 128
+
+## v0.28.0 - 2024-02-21
+
+Bump to Firefox 123
+
+## v0.27.0 - 2024-02-07
+
+Bump to Firefox 122
+
+Fix race condition in deploy_firefox.py
+Internals cleanup
+
 ## v0.26.0 - 2023-12-23
 
 Bump to Firefox 121
